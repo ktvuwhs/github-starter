@@ -14,6 +14,11 @@ Look at the `intro.py` file.  Respond to the following prompts in the comments s
 4. How would you fix this issue?  Feel free to ask AI.  If using AI for assistance, then paraphrase / write in your own words what the fix would be.
 5. Proceed to fix the program.  Re-run the program to check that it works.
 
+## custom.py
+1. Have AI modify the fixed program in `intro.py` so that it conforms to industry best practices.
+2. Paste the resulting code into `custom.py` and run it with the command `python custom.py` in the terminal.
+3. Compare and contrast (within the `custom.py` file) the original code with the AI generated one.
+
 ## Submitting Code
 In order for your code changes to take place, we need to "commit" and "push" the code to the repository.
 * In the left hand side, click on the branch icon
